@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/ML_Flow_Task/mlruns/0/a72f1beb722348a4ac66614e6ca65da5/artifacts
+end_time: 1680676704139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a72f1beb722348a4ac66614e6ca65da5
+run_name: resilient-snail-141
+run_uuid: a72f1beb722348a4ac66614e6ca65da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680676698753
+status: 3
+tags: []
+user_id: user
